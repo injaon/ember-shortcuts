@@ -207,4 +207,6 @@
       }
     });
   });
+
+  Ember.libraries.register('Ember Shortcuts', '0.0.8');
 }(Ember, Ember.$));
